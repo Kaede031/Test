@@ -1,4 +1,4 @@
-            - name: Checkmarx AST Github Action
+            - name: test
   # You may pin to the exact commit or the version.
   # uses: Checkmarx/ast-github-action@72d549beebd0bc5bbafa559f198161b6ce7c03df
   uses: Checkmarx/ast-github-action@2.0.21
