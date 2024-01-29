@@ -10,7 +10,7 @@
     # Client ID for AST portal authentication
     cx_client_id: SECRET
     # Secret key for AST portal authentication
-    cx_client_secret: SECRET
+    cx_client_secret: SECREt
     # Select a Checkmarx Project Name
     project_name: # optional, default is ${{ github.repository }}
     # Branch name
